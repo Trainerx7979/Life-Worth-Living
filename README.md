@@ -72,7 +72,9 @@ Without it, the game runs — but the world will feel empty. You can still build
 and explore just the same.
 
 🧪 Alpha Status — What Works, What Needs Testing
+
 ✔️ Working
+
 World generation (seeded, noise‑based, chunk streaming)
 Biomes implemented. Chunking needs adjustment to limit
 game halting 0.5-0.9s chunk saves/loads.
@@ -106,7 +108,9 @@ music system to ensure smooth transitions.
 
 LM Studio connectivity (profile generation, world manager, story director)
 
+
 ⚠️ Needs Testing
+
 NPC profile data returning correctly to UI
 
 Item spawning via LLM
@@ -117,7 +121,9 @@ NPC greeting/topic caching
 
 Dialogue UI patches (bio panel, mood indicator)
 
+
 ❌ Known Issues
+
 Save system has been converted from single slot to a
 full labeled save system. Appears to work. Needs more
 testing to confirm.
@@ -158,7 +164,8 @@ dynamically placed into the game during runtime.
 Remove‑block embed depth fix (Still needs adjustment)
 
 🧩 Requirements
-Minimum
+
+Minimum:
 
 For Story/NPC's/Dynamic World Events (Can still explore and build without this)
   GPU capable of running LM Studio models (recommended 7B–13B)
@@ -262,6 +269,7 @@ Story state not saving/loading
 Characters 'spawning' but never appearing in game
 
 ✔️ Provide Feedback
+
 On:
 
 Tone
@@ -275,6 +283,7 @@ World pacing
 NPC behavior
 
 🤝 Contributing
+
 Right now the we are not allowing contributions, but we will take suggestions.
 Once the code is in a more finalized state, we will likely begin allowing
 contributions. It has not been decided if the final product will be open-source
