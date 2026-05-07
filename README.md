@@ -3,13 +3,12 @@ A voxel survival‑horror‑comedy powered by local LLMs
 (Alpha Build — Seeking Testers, Especially LM Studio Users)
 
 📸 Screenshots
-(Placeholders — drop your images here once you have them)
 
 Gameplay Screenshot  
-![Gameplay Screenshot](docs/images/gameplay_01.png)
+![Gameplay Screenshot](images/gameplay_01.png)
 
 NPC Interaction / Dialogue  
-![NPC Dialogue](docs/images/dialogue_01.png)
+![NPC Dialogue](images/dialogue_01.png)
 
 🎮 What Is Life Worth Living?
 Life Worth Living is a Godot 4 voxel survival game set in a post‑nanite‑apocalypse world where humanity didn’t quite become zombies… but something much stranger.
