@@ -316,3 +316,10 @@ Physics that aren't 100% accurate, but react similarly to what you would expect.
 It’s early — but it’s already weird, funny, and surprisingly alive.
 
 If you want to help shape a new kind of AI‑driven game, you’re in the right place.
+
+A few more screenshots:
+
+![Gameplay Screenshot](images/gameplay_02.png)
+![Gameplay Screenshot](images/gameplay_03.png)
+
+![NPC Dialogue](images/dialogue_02.png)
