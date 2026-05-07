@@ -11,6 +11,7 @@ NPC Interaction / Dialogue
 ![NPC Dialogue](images/dialogue_01.png)
 
 🎮 What Is Life Worth Living?
+
 Life Worth Living is a Godot 4 voxel survival game set in a post‑nanite‑apocalypse world where humanity didn’t quite become zombies… but something much stranger.
 The story evolves, the characters grow, and blocks that don't have enough support will fall. Nanite zombies can break parts of your house, and knock down entire
 walls. All crafting will be done by nanites using materials collected while exploring. 
@@ -33,6 +34,7 @@ The game is built to be LLM‑native — meaning the world, story, NPC personali
 If you’ve ever wanted a survival game where the NPCs actually think, remember you, hold grudges, and generate infinite quests… this is that game.
 
 🧠 LLM‑Powered Systems
+
 The following systems are fully implemented (or partially implemented) and ready for testers:
 
 World Manager
@@ -109,6 +111,7 @@ music system to ensure smooth transitions.
 LM Studio connectivity (profile generation, world manager, story director)
 
 
+
 ⚠️ Needs Testing
 
 NPC profile data returning correctly to UI
@@ -120,6 +123,7 @@ Story state save/load (Multi-Slot system not fully tested)
 NPC greeting/topic caching
 
 Dialogue UI patches (bio panel, mood indicator)
+
 
 
 ❌ Known Issues
@@ -135,7 +139,9 @@ Player damage + NPC combat not fully wired
 
 Falling block destruction visuals not implemented
 
+
 🧭 Roadmap (Short‑Term)
+
 Priority A — Alpha Blockers
 Ensure Save system overhaul is effective.
 (multi‑slot, autosave, world cards)
@@ -162,6 +168,7 @@ manageable chunks that can be randomized or hand placed, and then
 dynamically placed into the game during runtime.
 
 Remove‑block embed depth fix (Still needs adjustment)
+
 
 🧩 Requirements
 
@@ -240,13 +247,18 @@ Several twists you absolutely will see coming, and will still fall for
 Tone:
 Portal + Fallout New Vegas (Wacky Wasteland) + Saints Row absurdity + survival horror.
 
+
 🧪 How You Can Help (Alpha Testers Wanted)
 We are actively seeking testers who can:
 
+
 ✔️ Run LM Studio
+
 This is the biggest need — the game’s story, NPCs, and quests depend on it.
 
+
 ✔️ Test LLM Integration
+
 NPC profile generation
 
 Dialogue
@@ -255,7 +267,9 @@ World Manager events
 
 Story Director pacing
 
+
 ✔️ Report Bugs
+
 Especially:
 
 Missing NPC bios
@@ -267,6 +281,7 @@ Item spawn failures
 Story state not saving/loading
 
 Characters 'spawning' but never appearing in game
+
 
 ✔️ Provide Feedback
 
@@ -281,6 +296,7 @@ Difficulty
 World pacing
 
 NPC behavior
+
 
 🤝 Contributing
 
@@ -313,10 +329,14 @@ Biome generation — Suggestions or Adjustments
 
 Submit PRs or open issues anytime.
 
+
 📜 License
+
 License will be chosen as code progresses toward a more stable form
 
+
 💬 Final Notes
+
 This is an ambitious project:
 A fully LLM‑driven survival world with infinite quests, emergent NPCs, and a story that blends humor, horror, and heart.
 
