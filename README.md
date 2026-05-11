@@ -2,6 +2,17 @@ Life Worth Living
 A voxel survival‑horror‑comedy powered by local LLMs
 (Alpha Build — Seeking Testers, Especially LM Studio Users)
 
+**UPDATE COMING SOON**
+Coming Soon...
+  - Water
+  - Ocean Biomes
+  - Better block stability detection
+  - Onnyx CPU Kokoro Text-To-Speech built-in (Characters talk, Nanite messages are read to you...)
+  - Individually consistent AI voices for NPCs
+  - MORE ROOM! Endless 64x32x64 chunks (We had that...) One 64x32x64 AIR chunk above and one 64x32x64 DIRT chunk below every normal chunk! That means each section
+    is actually 64x96x64 with no performance hit!
+  - Optimized speed: Chunk loading/saving/generation speed increased by ~400% dramatically reducing loading and chunk activity halts in-game
+
 📸 Screenshots
 
 Gameplay Screenshot  
