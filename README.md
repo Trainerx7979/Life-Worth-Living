@@ -2,16 +2,31 @@ Life Worth Living
 A voxel survival‑horror‑comedy powered by local LLMs
 (Alpha Build — Seeking Testers, Especially LM Studio Users)
 
-**UPDATE COMING SOON**
-Coming Soon...
+**UPDATE IN RELEASES**
   - Water
   - Ocean Biomes
-  - Better block stability detection
-  - Onnyx CPU Kokoro Text-To-Speech built-in (Characters talk, Nanite messages are read to you...)
-  - Individually consistent AI voices for NPCs
+  - Better block stability detection, Blocks actually fall when they are not supported.
+  - Onnyx CPU Kokoro Text-To-Speech built-in (Characters talk, Nanite messages are read to you...) [Toggle mis-wired. Cannot turn off currently]
+  - Individually consistent AI voices for NPCs [True because it's just one voice right now. Next update gets individual voices per-character]
   - MORE ROOM! Endless 64x32x64 chunks (We had that...) One 64x32x64 AIR chunk above and one 64x32x64 DIRT chunk below every normal chunk! That means each section
     is actually 64x96x64 with no performance hit!
-  - Optimized speed: Chunk loading/saving/generation speed increased by ~400% dramatically reducing loading and chunk activity halts in-game
+  - Optimized speed: Chunk loading/saving/generation speed increased by ~300% dramatically reducing loading and chunk activity halts in-game
+
+Download it in RELEASES as the v0.1.8-alpha release.
+
+**Installation**
+- Download the package
+- Unzip package
+- Run Wox.exe or Wox.console.exe (if you want terminal output)
+
+**LM STUDIO & OLLAMA**
+If you are using LM Studio or OLLAMA, Settings menu has an option to include (default: True) extra world-flavor information for the storyteller.
+
+Additionally, With an LLM, F5 will attempt to spawn a random friendly character, and F6 will attempt to spawn a random hostile npc.
+
+Dialogue is still, buggy. But it is working partially.
+
+---
 
 📸 Screenshots
 
