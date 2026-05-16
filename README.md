@@ -1,6 +1,7 @@
-Life Worth Living
-A voxel survival‑horror‑comedy powered by local LLMs
-(Alpha Build — Seeking Testers, Especially LM Studio Users)
+Life Worth Living: a Godot 4 voxel survival horror comedy game that has freeplay and optional story-mode if you attach your own LM STUDIO or OLLAMA instance.
+LLM AI can manage and direct entire game world, all npc characters, quest/missions, side-quests, new characters, new items, etc...
+
+**v0.1.8-alpha OUT NOW!**
 
 **UPDATE IN RELEASES**
   - Water
@@ -14,6 +15,14 @@ A voxel survival‑horror‑comedy powered by local LLMs
 
 Download it in RELEASES as the v0.1.8-alpha release.
 
+📸 Screenshots
+
+Gameplay Screenshot  
+![Gameplay Screenshot](images/gameplay_01.png)
+
+NPC Interaction / Dialogue  
+![NPC Dialogue](images/dialogue_01.png)
+
 **Installation**
 - Download the package
 - Unzip package
@@ -25,16 +34,6 @@ If you are using LM Studio or OLLAMA, Settings menu has an option to include (de
 Additionally, With an LLM, F5 will attempt to spawn a random friendly character, and F6 will attempt to spawn a random hostile npc.
 
 Dialogue is still, buggy. But it is working partially.
-
----
-
-📸 Screenshots
-
-Gameplay Screenshot  
-![Gameplay Screenshot](images/gameplay_01.png)
-
-NPC Interaction / Dialogue  
-![NPC Dialogue](images/dialogue_01.png)
 
 🎮 What Is Life Worth Living?
 
